@@ -1,1 +1,3 @@
-# leetcode
+# LeetCode
+
+Daily LeetCode // Interview Prep
