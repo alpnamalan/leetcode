@@ -1,3 +1,3 @@
 # LeetCode
 
-Daily LeetCode // Interview Prep (starting July '25)
+Daily LeetCode & OA/Interview Prep (starting July '25)
