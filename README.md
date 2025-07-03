@@ -7,5 +7,7 @@ Daily LeetCode & OA/Interview Prep (starting July '25)
 |   |   |   |   |   |
 |   |   |   |   |   |
 
-| GRAND TOTAL |   |
-  -----------
+| GRAND TOTAL |
+|-------------|
+|           |
+
