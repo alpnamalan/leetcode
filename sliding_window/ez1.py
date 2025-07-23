@@ -1,4 +1,4 @@
-### JULY 6, 2025 - P643: MAXIMUM AVERAGE SUBARRAY I ###
+### JULY 6, 2025 -- P643: MAXIMUM AVERAGE SUBARRAY I ###
 
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
