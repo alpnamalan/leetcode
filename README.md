@@ -18,7 +18,7 @@ Focused on Medium difficulty, with occasional Easies and Hards.
 | Sliding Window | 3  | 6  | 4  | 13  |
 | Stack | 0  | 6  | 0  |  6 |
 | Two Pointers | 1  | 7  | 1  | 9  |
-| **TOTAL** | 13  | 92  | 21  | 126 * |
+| **TOTAL** | 13  | 92  | 21  | 126* |
 
-( * 150 including past problems,
- which were mostly Easies )
+( *150 including past problems,
+ most of which are Easies )
