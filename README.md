@@ -12,8 +12,8 @@ Focused on Medium difficulty, with occasional Easies and Hards.
 | Greedy Algorithm |   |   |   |   |
 | Hash Map / Set |   |   |   |   |
 | Heap |   |   |   |   |
+| Linked List |   |   |   |   |
 | Matrix / Grid |   |   |   |   |
-| Object-Oriented Design |   |   |   |   |
 | Prefix Sum |   |   |   |   |
 | Sliding Window |   |   |   |   |
 | Stack |   |   |   |   |
