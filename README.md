@@ -9,6 +9,6 @@ Focused on Medium difficulty, with occasional Easies and Hards.
 |   |   |   |   |   |
 |   |   |   |   |   |
 
-| GRAND TOTAL |  |
+| GRAND TOTAL |  | (150 including past problems)
 |-------|-------|
 
