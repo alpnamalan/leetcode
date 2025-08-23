@@ -8,7 +8,7 @@ Focused on Medium difficulty, with occasional Easies and Hards.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Binary Search  |   |   |   |   |
 | Dynamic Programming  |   |   |   |   |
-| Graph / Tree  |   |   |   |   |
+| Graph / Tree (BFS & DFS) |   |   |   |   |
 | Greedy Algorithm |   |   |   |   |
 | Hash Map / Set |   |   |   |   |
 | Heap |   |   |   |   |
