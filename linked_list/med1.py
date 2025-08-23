@@ -4,6 +4,7 @@ from collections import OrderedDict
 
 class LRUCache:
     # using Ordered Dict for o(1) time
+    # doubly linked list under the hood
     def __init__(self, capacity: int):
         self._capacity = capacity
         self._cache = OrderedDict()
